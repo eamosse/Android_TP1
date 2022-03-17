@@ -4,14 +4,14 @@ package com.gmail.eamosse.tp1
  * Fonction qui retourne les x premiers nombres pairs ou impairs
  */
 fun oddOrEven(type: String, x: Int): List<Int> {
-    TODO("A implémenter")
+    return listOf(1, 2, 3)
 }
 
 /**
  * Fonction qui calcule les n premirs nombres de la suite fibonacci
  */
 fun fibo(nb: Int): List<Int> {
-  TODO("A implémenter")
+    TODO("A implémenter")
 
 }
 
